@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="test-api">
+    <Basepaths>/test-api</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1636610835715</CreatedAt>
+    <CreatedBy>anil.mandal@neosalpha.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>test-api</DisplayName>
+    <LastModifiedAt>1636610835715</LastModifiedAt>
+    <LastModifiedBy>anil.mandal@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7d4f6d9c8827f83f60886383e6782a553a0597eb3ff8dc0c7fb3affb4d1a8b3a61e9b9d8735deb6cb457f994924e2e2e529bbe5967daa654e052edfe4f609e91:ap-northeast-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

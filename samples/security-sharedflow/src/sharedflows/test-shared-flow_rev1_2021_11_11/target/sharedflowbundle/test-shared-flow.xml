@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="test-shared-flow">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1636610929726</CreatedAt>
+    <CreatedBy>anil.mandal@neosalpha.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>test-shared-flow</DisplayName>
+    <LastModifiedAt>1636611076061</LastModifiedAt>
+    <LastModifiedBy>anil.mandal@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0b9408dfd29f329ad0dd6095e052b974b2e23d7c5f8054ce620ace994bb0bb22b688c32b410e5a63c7f23765be91391039625ceb5874a023ac5dd58ae735ff5f</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>
